@@ -93,7 +93,7 @@
                     <a href="https://laravel.com/docs">Internship</a>
                     <a href="https://laracasts.com">Create User</a>
                     <a href="https://laravel-news.com">Remove User</a>
-                    <a href="https://nova.laravel.com">Logout</a>
+                    <a href="https://127.0.0.1:8000/admin">Login</a>
                     <a href="https://forge.laravel.com">Contact US</a>
                     <a href="https://github.com/cishlgu/cishlgu">GitHub</a>
                 </div>
