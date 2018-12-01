@@ -1,5 +1,6 @@
-<?php
 
+
+<?php
 /*
 |--------------------------------------------------------------------------
 | Create The Application
@@ -13,7 +14,6 @@
 $app = new Illuminate\Foundation\Application(
     realpath(__DIR__.'/../')
 );
-
 /*
 |--------------------------------------------------------------------------
 | Bind Important Interfaces
@@ -38,7 +38,7 @@ $app->singleton(
 $app->singleton(
     Illuminate\Contracts\Debug\ExceptionHandler::class,
     App\Exceptions\Handler::class
-);
+)
 
 /*
 |--------------------------------------------------------------------------
